@@ -5,6 +5,7 @@ Here you can find pretty rare documentation about the Firebird & Trans Am '89 au
 This repo contains released OCR pdf's and original scans of the books.
 
 * **Pontiac 89 Firebird Owners Manual** - small book about usual service and howto use your car.
+* **Pontiac 89 Trans Am 20th Anniversary Owners Manual Supplement** - additional owners manual for 20th anniversary Trans Am
 * **Pontiac 89 Firebird Service Manual** - pretty huge manual about all the '89 Firebirds. *Cleaning of the electric schema pages drives me nuts!))*
 * **Pontiac 89 Trans Am 20th Anniversary Service Manual Supplement** - additional manual about with features of 20th anniversary trans am.
 * **Pontiac 89 Firebird Trans Am Booklet** - nice pictures & some info about firebirds.
@@ -14,6 +15,10 @@ Why?
 
 I think all the documentation should be available worldwide to help owners fix & improve his devices.
 Make sure that you using it for good purposes.
+
+Also helpful
+------------
+* Electronic Parts Catalog: https://nemigaparts.com/cat_spares/epc/pontiac/22f-f/
 
 Process
 -------
